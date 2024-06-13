@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://supriti.github.io/sitemap.xml
